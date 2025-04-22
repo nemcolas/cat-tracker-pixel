@@ -1,0 +1,46 @@
+{
+  "cats": [
+    {
+      "id": "abca",
+      "imageUri": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252Fcat-tracker-0f320df4-c8c5-4bb9-9cb8-74a3015297b7/ImagePicker/24b4e68f-5284-4feb-aae5-358e34bc2e7d.jpeg",
+      "observation": "gato maneiro",
+      "latitude": -23.55749424259168,
+      "longitude": -46.62467435002327
+    },
+    {
+      "id": "ebfb",
+      "imageUri": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252Fcat-tracker-0f320df4-c8c5-4bb9-9cb8-74a3015297b7/ImagePicker/ae95e1a1-f425-4c77-99da-23eb5a43ec8c.jpeg",
+      "observation": "gato.maneiro",
+      "latitude": -23.545298047342666,
+      "longitude": -46.63946036249399
+    },
+    {
+      "id": "c361",
+      "imageUri": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252Fcat-tracker-0f320df4-c8c5-4bb9-9cb8-74a3015297b7/ImagePicker/257363e4-d918-42eb-b6bc-9ff668613b5c.jpeg",
+      "observation": "gato legal",
+      "latitude": -23.507510078792112,
+      "longitude": -46.63223817944527
+    },
+    {
+      "id": "d77c",
+      "imageUri": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252Fcat-tracker-0f320df4-c8c5-4bb9-9cb8-74a3015297b7/ImagePicker/6142d082-4a57-4a85-9002-0f046cb32818.jpeg",
+      "observation": "gato maneiro",
+      "latitude": -23.563317478961977,
+      "longitude": -46.641132049262524
+    },
+    {
+      "id": "aff2",
+      "imageUri": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252Fcat-tracker-0f320df4-c8c5-4bb9-9cb8-74a3015297b7/ImagePicker/5190c65a-cdc9-42d5-a28d-7e1e0bb55316.jpeg",
+      "observation": "gato batuta",
+      "latitude": -23.543255299917586,
+      "longitude": -46.621201895177364
+    },
+    {
+      "id": "9576",
+      "imageUri": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252Fcat-tracker-0f320df4-c8c5-4bb9-9cb8-74a3015297b7/ImagePicker/78c0dd2c-56c1-42d7-9e82-0b10a4e45249.jpeg",
+      "observation": "gato arisco",
+      "latitude": -23.568940093040553,
+      "longitude": -46.64117831736803
+    }
+  ]
+}
