@@ -41,6 +41,20 @@
       "observation": "gato arisco",
       "latitude": -23.568940093040553,
       "longitude": -46.64117831736803
+    },
+    {
+      "id": "f4a6",
+      "imageUri": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252Fcat-tracker-0f320df4-c8c5-4bb9-9cb8-74a3015297b7/ImagePicker/0e5fc347-d9cc-4a06-80a0-15b5686edecf.jpeg",
+      "observation": "gato maneiro",
+      "latitude": -23.577198716123107,
+      "longitude": -46.64624232798815
+    },
+    {
+      "id": "9a92",
+      "imageUri": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252Fcat-tracker-0f320df4-c8c5-4bb9-9cb8-74a3015297b7/ImagePicker/c0770071-0925-4304-a515-ae7c4abbc90b.jpeg",
+      "observation": "gato muito maneiro",
+      "latitude": -23.539532721466433,
+      "longitude": -46.63906741887331
     }
   ]
 }

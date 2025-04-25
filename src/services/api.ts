@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: 'http://192.168.0.56:3001', // altere para IP da rede local no celular
+  baseURL: 'http://192.168.108.194:3001', // alterar o ip pro ip do pc (tem q ta na mesma rede do celular)
 });
 
 export interface CatReport {
